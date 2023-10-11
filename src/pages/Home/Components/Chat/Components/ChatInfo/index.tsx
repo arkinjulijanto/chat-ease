@@ -2,7 +2,7 @@ import React from 'react';
 
 function ChatInfo() {
   return (
-    <div className="h-12 px-4 flex items-center justify-between text-gray-900 dark:text-white bg-slate-200 dark:bg-slate-700">
+    <div className="h-[50px] px-4 flex items-center justify-between text-gray-900 dark:text-white bg-slate-200 dark:bg-slate-700">
       <h3>John</h3>
       <div className="flex gap-4 cursor-pointer">
         <svg
